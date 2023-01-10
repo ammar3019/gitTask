@@ -1,1 +1,2 @@
-console.log("git is awesome!");
+
+console.log("enter some data!");
